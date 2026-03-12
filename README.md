@@ -22,6 +22,7 @@ This repository contains competitive programming solutions solved in the FOCUS A
 | Problem | Difficulty | Solution |
 |--------|-----------|----------|
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [GitHub](leetcode/easy/two_sum.py) / [LeetCode Submission](https://leetcode.com/submissions/detail/1938976839/) |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [GitHub](leetcode/easy/contains_duplicate.py) / [LeetCode Submission](https://leetcode.com/submissions/detail/1945944403/) |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [GitHub](leetcode/medium/Product_of_Array_Except_Self.py) / [LeetCode Submission](https://leetcode.com/submissions/detail/1945790606/) |
 ---
 
