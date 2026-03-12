@@ -20,19 +20,16 @@ This repository contains competitive programming solutions solved in the FOCUS A
 
 | Problem | Difficulty | Solution |
 |--------|-----------|----------|
-| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](leetcode/easy/two_sum.py) |
-| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Python](Product_of_Array _Except_Self.py) |
-
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [GitHub](leetcode/easy/two_sum.py) / [LeetCode Submission](https://leetcode.com/submissions/detail/1938976839/) |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [GitHub](leetcode/medium/Product_of_Array_Except_Self.py) / [LeetCode Submission](https://leetcode.com/submissions/detail/1945790606/) |
 ---
+
 
 ## AtCoder Problems
 
-## LeetCode Problems
-
 | Problem | Difficulty | Solution |
 |--------|-----------|----------|
-| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [GitHub](leetcode/easy/two_sum.py) / [LeetCode Submission](https://leetcode.com/submissions/detail/1938976839/) |
-| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [GitHub](leetcode/medium/Product_of_Array_Except_Self.py) / [LeetCode Submission](https://leetcode.com/submissions/detail/1945790606/) |
+| [ABC214 B - How many?](https://atcoder.jp/contests/abc214/tasks/abc214_b) | Beginner | [Python](https://github.com/Kumala-Adugna/Focus-Astu-Tech-community-cp-solutions/blob/main/AtCoders/Beginner/abc214b_how_many.py) |
 ---
 
 ## Author
