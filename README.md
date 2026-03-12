@@ -27,10 +27,12 @@ This repository contains competitive programming solutions solved in the FOCUS A
 
 ## AtCoder Problems
 
+## LeetCode Problems
+
 | Problem | Difficulty | Solution |
 |--------|-----------|----------|
-| [ABC214 B - How many?](https://atcoder.jp/contests/abc214/tasks/abc214_b) | Beginner | [Python](atcoder/beginner/abc214b_how_many.py) |
-
+| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [GitHub](leetcode/easy/two_sum.py) / [LeetCode Submission](https://leetcode.com/submissions/detail/1938976839/) |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [GitHub](leetcode/medium/Product_of_Array_Except_Self.py) / [LeetCode Submission](https://leetcode.com/submissions/detail/1945790606/) |
 ---
 
 ## Author
