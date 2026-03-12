@@ -14,6 +14,7 @@ This repository contains competitive programming solutions solved in the FOCUS A
 | Problem | Difficulty | Solution |
 |--------|-----------|----------|
 | [231A - Team](https://codeforces.com/problemset/problem/231/A) | 800 | [Python](codeforces/800/231A_team.py) |
+| [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [GitHub](codeforces/800/Vanya_and_Fence.py) / [Submission](https://codeforces.com/contest/677/submission/366351025) |
 ----
 
 ## LeetCode Problems
