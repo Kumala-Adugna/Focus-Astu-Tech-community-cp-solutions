@@ -30,9 +30,8 @@ This repository contains competitive programming solutions solved in the FOCUS A
 
 | Problem | Difficulty | Solution |
 |--------|-----------|----------|
-| [ABC214 B - How many?](https://atcoder.jp/contests/abc214/tasks/abc214_b) | Beginner | [Python](https://github.com/Kumala-Adugna/Focus-Astu-Tech-community-cp-solutions/blob/main/AtCoders/Beginner/abc214b_how_many.py) |
-
-| [ABC312 C - Invisible Hand](https://atcoder.jp/contests/abc312/tasks/abc312_c) | Beginner | [GitHub](AtCoders/Beginner/abc312c_invisible_hand.py) / [Submission](https://atcoder.jp/contests/abc312/submissions/74027064) |
+| [ABC214 B - How many?](https://atcoder.jp/contests/abc214/tasks/abc214_b) | Beginner | [GitHub](AtCoders/Beginner/abc214b_how_many.py) |
+| [ABC312 C - Invisible Hand](https://atcoder.jp/contests/abc312/tasks/abc312_c) | Beginner | [GitHub](AtCoders/Beginner/C _Invisible_Hand.py) / [AtCoder Submission](https://atcoder.jp/contests/abc312/submissions/74027064) |
 ---
 
 ## Author
